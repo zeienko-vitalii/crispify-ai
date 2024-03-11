@@ -22,6 +22,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Preview
 
+<a href="https://crispify-ai.vercel.app" class="background-color: white;"><img width="160" height="50" alt="vercel-logotype-dark" src="https://github.com/zeienko-vitalii/crispify-ai/assets/31850531/d78a94a3-562b-4011-9b11-06ab126a5627"></a>
+
+
+
 ![CrispifyAI - Home page](https://github.com/zeienko-vitalii/crispify-ai/assets/31850531/931bf036-3c0e-4123-824b-72b84fdac0bf)
 
 
